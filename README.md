@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of zeokat/flarum-ext-spanish.** Not for installation: use [Packagist](https://packagist.org/packages/zeokat/flarum-ext-spanish) or the [upstream repository](https://github.com/Zeokat/flarum-ext-spanish).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/zeokat-flarum-ext-spanish/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/zeokat-flarum-ext-spanish/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2017-04-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/zeokat-flarum-ext-spanish/tree/archive/v0.1.0) |
+| `v0.1.1` | 2017-04-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/zeokat-flarum-ext-spanish/tree/archive/v0.1.1) |
+| `v0.1.2` | 2017-04-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/zeokat-flarum-ext-spanish/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/zeokat-flarum-ext-spanish.json](https://github.com/flarchive/archive-index/blob/main/packages/zeokat-flarum-ext-spanish.json)
 
